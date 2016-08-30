@@ -2,5 +2,4 @@
 
 a map of Polish voivodships
 
-
-http://htmlpreview.github.io/?https://github.com/marcint87/master/index.html
+http://htmlpreview.github.io/?https://github.com/marcint87/Polish-SVG-map/blob/master/index.html
